@@ -1,4 +1,4 @@
 EbookReader
 ===========
 
-Epub book reader
+Ebook reader for window
